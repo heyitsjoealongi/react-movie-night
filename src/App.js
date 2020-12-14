@@ -7,7 +7,7 @@ class App extends React.Component {
   render() { 
     return (
       <div className="container">
-        <h1 className="title">Movie Night</h1>
+        <h1 className="title">React Movie Night</h1>
         <SearchMovies/>
       </div>
     );
